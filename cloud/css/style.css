@@ -1,0 +1,19 @@
+#cloud {
+    height: 500px;
+    width: 500px;
+    /* background-image: url('../pic/cloud.svg');
+    background-repeat: no-repeat; */
+}
+
+
+/* .cloud {
+    -webkit-transform: translate(0, 0);
+    -webkit-transition: -webkit-transform 1000ms;
+    transform: translate(0, 0);
+    transition: transform 1000ms;
+}
+
+.cloud.move {
+    -webkit-transform: translate(50px, 50px);
+    transform: translate(50px, 50px);
+} */
