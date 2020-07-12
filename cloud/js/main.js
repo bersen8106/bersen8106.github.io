@@ -27,3 +27,11 @@ var cloud2 = anime({
     direction: 'alternate',
     loop: true
 });
+
+var flower = anime({
+    targets: '#flower',
+    easing: 'easeInOutQuad',
+    duration: 5000,
+    direction: 'alternate',
+    loop: true
+});
