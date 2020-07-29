@@ -1,0 +1,12 @@
+<svg id="menu_line" width="100vw" height="100vh" preserveAspectRatio="none" viewBox="1000 -300 1320 1206" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M1054.45 713C1051.66 713 1048.84 712.959 1046 712.855L1046.07 710.265C1078.62 711.363 1106.73 706.163 1132.04 694.374C1209.38 658.323 1259.78 562.104 1308.49 469.056C1320.39 446.306 1332.71 422.79 1345.14 400.725C1411.98 282.109 1500.26 182.492 1600.45 112.628C1700.65 42.7431 1811.14 3.81228 1919.93 0L1920" stroke-width="20" stroke="#640DBA" stroke-dashoffset="1000" stroke-dasharray="1300" stroke-linecap="round">
+
+
+<animate 
+attributeName="stroke-dashoffset"
+dur="15s"
+repeatCount="indefinite"
+values="0;1300;0" />
+</path>
+
+</svg>
