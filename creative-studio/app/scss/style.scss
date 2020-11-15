@@ -284,10 +284,13 @@
         // height: 1050px;
         grid-gap: 30px;
         grid-template-columns: repeat(4, 1fr);
-        grid-template-rows: repeat(6, 330px);
+        grid-template-rows: repeat(3, 330px);
         margin-bottom: 70px;
         &.disabled {
             pointer-events: none;
+        }
+        & .portfolio-page {
+            grid-template-rows: repeat(6, 330px);
         }
     }
     
